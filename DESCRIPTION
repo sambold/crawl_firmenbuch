@@ -1,0 +1,9 @@
+Package: fibuR
+Title: Crawler FirmenABC
+Version: 0.1
+Authors: Samuel Kasper
+Description: sucht nach Firmen im Firmenbuch (FirmenABC). Für Treffer werden 
+  nähere Informationen zum Unternehmen aufbereitet, strukturiert und verspeichert
+Depends: R (>= 3.5.0)
+License: GNU-3
+LazyData: true
